@@ -1,4 +1,1 @@
-{
-"version": "1.0"  ,
-"update_file_url":"https://github.com/TrHieu2708/OTA_HAUGIANG/blob/main/111.ino.bin"
-} 
+{"wifi": 1.3.1, "lmd": 1.3.1}
